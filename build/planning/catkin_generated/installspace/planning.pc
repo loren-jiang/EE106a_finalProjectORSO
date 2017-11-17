@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa17/class/ee106a-abp/ros_workspaces/finalProjectORSO/install
+
+Name: planning
+Description: Description of planning
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cc/ee106a/fa17/class/ee106a-abp/ros_workspaces/finalProjectORSO/install/lib 
+Requires: 
